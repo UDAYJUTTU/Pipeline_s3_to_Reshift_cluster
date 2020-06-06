@@ -6,8 +6,8 @@
 * #### Technolgies used 
    
    - **Python**
-   - **Pyspark sql **
-   - **Pyspark rdd **
+   - **Pyspark sql**
+   - **Pyspark rdd**
    - **AWS (S3, EMR)**
    - **Boto3 API**
    
